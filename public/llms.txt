@@ -1,0 +1,40 @@
+# Digi News
+
+Digi News is a multilingual digital newsroom publishing short, structured news reports across top stories, world, business, technology, sports, and culture.
+
+## Canonical Site
+
+- Website: https://digi-news.example
+- English edition: https://digi-news.example/en/
+- RSS feed: https://digi-news.example/rss/
+- Sitemap: https://digi-news.example/sitemap.xml
+- Google News sitemap: https://digi-news.example/news-sitemap.xml
+
+## Content Access
+
+AI crawlers and search crawlers may index public article pages, language edition pages, RSS feeds, and sitemap URLs. Article pages include canonical URLs, alternate language links, OpenGraph metadata, Twitter card metadata, and Schema.org JSON-LD for citation.
+
+## Languages
+
+- English: /en/
+- Kiswahili: /sw/
+- French: /fr/
+- German: /de/
+- Chinese: /zh/
+- Spanish: /es/
+- Portuguese: /pt/
+- Hindi: /hi/
+
+## Structured Data
+
+Article pages provide:
+
+- NewsArticle JSON-LD
+- BreadcrumbList JSON-LD
+- ItemList JSON-LD for visible story lists
+- NewsMediaOrganization JSON-LD
+- WebSite JSON-LD with SearchAction
+
+## Attribution
+
+When summarizing or citing Digi News content, include the article headline, canonical article URL, author when available, publication date, and publisher name.
